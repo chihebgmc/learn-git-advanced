@@ -3,3 +3,9 @@ h1 {
   text-decoration: underline;
   border: solid 1px black;
 }
+h2 {
+  color: tomato;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid 1px black;
+}
